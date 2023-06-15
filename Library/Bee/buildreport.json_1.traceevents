@@ -1,0 +1,577 @@
+{ "pid": 0, "tid": -1, "ph": "M", "name": "process_name", "args": { "name": "BeeDriver" } },
+{ "pid": 0, "tid": -1, "ph": "M", "name": "process_sort_index", "args": { "sort_index": "-2" } },
+{ "pid": 0, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
+{ "pid": 0, "tid": 1, "ts": 1684206338614181, "dur": 341885, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206338615546, "dur": 35016, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206338650803, "dur": 295257, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206338946078, "dur": 9985, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206346765067, "dur": 617868, "ph": "X", "name": "Build Player", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206346765472, "dur": 12825, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206346778302, "dur": 32951, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206346811296, "dur": 343572, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206347154871, "dur": 217196, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206347372070, "dur": 10862, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206422610785, "dur": 5460021, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206422610812, "dur": 32399, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206422643216, "dur": 34413, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206422677632, "dur": 288499, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206422966134, "dur": 5094671, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206428060808, "dur": 9996, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206431639548, "dur": 396823, "ph": "X", "name": "Build Player", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206431639576, "dur": 5141, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206431644722, "dur": 31028, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206431675753, "dur": 208286, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206431884042, "dur": 140894, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206432024939, "dur": 11430, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206450664512, "dur": 6093499, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206450664591, "dur": 25477, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206450690072, "dur": 33486, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206450723561, "dur": 309997, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206451033561, "dur": 5714410, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206456747975, "dur": 10032, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206460282842, "dur": 440279, "ph": "X", "name": "Build Player", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206460282856, "dur": 15731, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206460298592, "dur": 31325, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206460329921, "dur": 226323, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206460556246, "dur": 155357, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206460711608, "dur": 11511, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206460723701, "dur": 160, "ph": "X", "name": "", "args": {} },
+{ "pid": 35942, "tid": -1, "ph": "M", "name": "process_name", "args": { "name": "netcorerun.dll" } },
+{ "pid": 35942, "tid": -1, "ph": "M", "name": "process_sort_index", "args": { "sort_index": "-1" } },
+{ "pid": 35942, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
+{ "pid": 35942, "tid": 1, "ts": 1684206460422003, "dur": 102363, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1684206460423008, "dur": 41675, "ph": "X", "name": "BuildProgramContextConstructor", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1684206460509638, "dur": 4230, "ph": "X", "name": "OutputData.Write", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1684206460513871, "dur": 10487, "ph": "X", "name": "Backend.Write", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1684206460514530, "dur": 9238, "ph": "X", "name": "JsonToString", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1684206460528374, "dur": 1250, "ph": "X", "name": "", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1684206460527653, "dur": 1993, "ph": "X", "name": "Write chrome-trace events", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206460723936, "dur": 425, "ph": "X", "name": "buildprogram0.traceevents", "args": {} },
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1684206460588179, "dur":2220, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684206460590408, "dur":38, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1684206460590463, "dur":11, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1684206460590475, "dur":266, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1684206460590765, "dur":480, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684206460591245, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684206460680480, "dur":186, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684206460680667, "dur":44, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684206460680711, "dur":5, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684206460680716, "dur":25, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684206460680741, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684206460680744, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684206460680753, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684206460680755, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684206460680761, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684206460680762, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684206460680768, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684206460680770, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684206460680775, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684206460680777, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684206460680782, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684206460680784, "dur":19, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684206460680803, "dur":1, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684206460680814, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684206460680824, "dur":952, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1684206460591390, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684206460591391, "dur":3811, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684206460595207, "dur":216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":1, "ts":1684206460595425, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684206460596926, "dur":1718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":1, "ts":1684206460598852, "dur":368, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1684206460599222, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684206460599227, "dur":1106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1684206460600396, "dur":745, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2.exe" }}
+,{ "pid":12345, "tid":1, "ts":1684206460601143, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684206460601147, "dur":1567, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2.exe" }}
+,{ "pid":12345, "tid":1, "ts":1684206460602754, "dur":168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460602924, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684206460602929, "dur":925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460603900, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460604062, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684206460604067, "dur":1129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460605236, "dur":207, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460605445, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684206460605450, "dur":1390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460606888, "dur":216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460607107, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684206460607112, "dur":1018, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460608181, "dur":191, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460608375, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684206460608380, "dur":1802, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460610232, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460610403, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684206460610408, "dur":1759, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460612208, "dur":194, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460612404, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684206460612408, "dur":1527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460613976, "dur":149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460614128, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684206460614132, "dur":953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460615125, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460615268, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684206460615272, "dur":1021, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460616333, "dur":366, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460616702, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684206460616706, "dur":1384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460618129, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460618274, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684206460618278, "dur":795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460619111, "dur":176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460619289, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684206460619293, "dur":1518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460620852, "dur":250, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460621104, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684206460621110, "dur":1631, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460622777, "dur":144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460622924, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684206460622928, "dur":1165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460624155, "dur":390, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460624548, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684206460624553, "dur":1140, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460625733, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460625871, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684206460625875, "dur":1486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460627398, "dur":187, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460627589, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684206460627594, "dur":1526, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460629161, "dur":506, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460629670, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684206460629676, "dur":3585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460633308, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460633463, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684206460633467, "dur":3735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460637259, "dur":1271, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460638537, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684206460638545, "dur":4280, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460642882, "dur":253, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460643139, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684206460643146, "dur":2995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684206460646190, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/StreamingAssets/StreamingAssets" }}
+,{ "pid":12345, "tid":1, "ts":1684206460646236, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684206460646240, "dur":2689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/StreamingAssets/StreamingAssets" }}
+,{ "pid":12345, "tid":1, "ts":1684206460648974, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":1, "ts":1684206460649017, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684206460649021, "dur":1161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":1, "ts":1684206460650224, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1684206460650259, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684206460650263, "dur":8104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1684206460658396, "dur":22085, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684206460591207, "dur":45, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684206460591253, "dur":3942, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684206460595207, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1684206460595213, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684206460595971, "dur":258, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1684206460596232, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1684206460596283, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684206460596315, "dur":2380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1684206460598697, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1684206460598742, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684206460598747, "dur":972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1684206460599757, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1684206460599807, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684206460599811, "dur":1440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1684206460601298, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/Utils.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460601450, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684206460601494, "dur":1962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/Utils.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460603493, "dur":152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460603647, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684206460603652, "dur":839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460604536, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460604688, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684206460604940, "dur":2093, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460607134, "dur":210, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460607347, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684206460607351, "dur":1009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460608402, "dur":1291, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460609700, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684206460609708, "dur":2523, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460612272, "dur":148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460612422, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684206460612426, "dur":1605, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460614085, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460614246, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684206460614250, "dur":896, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460615187, "dur":261, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460615451, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684206460615455, "dur":1219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460616722, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460616863, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684206460616867, "dur":903, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460617814, "dur":224, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460618041, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684206460618045, "dur":1390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460619474, "dur":523, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460620000, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684206460620004, "dur":2640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460622686, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460622869, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684206460622873, "dur":1122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460624034, "dur":290, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460624327, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684206460624331, "dur":1623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460625993, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460626125, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684206460626129, "dur":1353, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460627531, "dur":148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460627683, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684206460627687, "dur":5864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460633598, "dur":7183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460640791, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684206460640802, "dur":3775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460644671, "dur":23077, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Plugins/x86_64/realsense2.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460667753, "dur":6, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684206460667849, "dur":12556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Plugins/x86_64/realsense2.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684206460680443, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":2, "ts":1684206460680446, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684206460591508, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684206460591508, "dur":3705, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684206460595216, "dur":215, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1684206460595434, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684206460597146, "dur":1620, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1684206460598807, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1684206460598858, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684206460598997, "dur":1185, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1684206460600230, "dur":1143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1684206460601376, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684206460601379, "dur":1980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1684206460603534, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684206460603705, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684206460603709, "dur":872, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684206460604622, "dur":167, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684206460604792, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684206460604796, "dur":1150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684206460605981, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684206460606120, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684206460606124, "dur":2254, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684206460608425, "dur":741, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684206460609174, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684206460609183, "dur":2635, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684206460611859, "dur":168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684206460612029, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684206460612036, "dur":2099, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684206460614176, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684206460614313, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684206460614317, "dur":1009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684206460615365, "dur":170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684206460615537, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684206460615541, "dur":1467, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684206460617075, "dur":5437, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684206460622519, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684206460622526, "dur":1276, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684206460623843, "dur":1135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684206460624981, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684206460624985, "dur":2116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684206460627145, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684206460627286, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684206460627290, "dur":1675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684206460629009, "dur":728, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684206460629741, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684206460629747, "dur":3459, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684206460633260, "dur":259, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684206460633522, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684206460633525, "dur":3585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684206460637150, "dur":341, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684206460637494, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684206460637500, "dur":10324, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684206460647861, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/StreamingAssets/sample_assets.manifest" }}
+,{ "pid":12345, "tid":3, "ts":1684206460647908, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684206460647913, "dur":1510, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/StreamingAssets/sample_assets.manifest" }}
+,{ "pid":12345, "tid":3, "ts":1684206460649751, "dur":1675, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":3, "ts":1684206460651432, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684206460651440, "dur":896, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":3, "ts":1684206460652381, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":3, "ts":1684206460652430, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684206460652434, "dur":1387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":3, "ts":1684206460653859, "dur":26639, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684206460591310, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684206460591310, "dur":3893, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684206460595207, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1684206460595293, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684206460596167, "dur":2607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1684206460598825, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1684206460598978, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684206460598982, "dur":1163, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1684206460600183, "dur":26350, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684206460626536, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684206460626539, "dur":17777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684206460644528, "dur":240, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684206460644770, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684206460644775, "dur":3281, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684206460648104, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/StreamingAssets/sample_assets" }}
+,{ "pid":12345, "tid":4, "ts":1684206460648144, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684206460648148, "dur":2080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/StreamingAssets/sample_assets" }}
+,{ "pid":12345, "tid":4, "ts":1684206460650286, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/resources.assets" }}
+,{ "pid":12345, "tid":4, "ts":1684206460650334, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684206460650337, "dur":1300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/resources.assets" }}
+,{ "pid":12345, "tid":4, "ts":1684206460651680, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/level0" }}
+,{ "pid":12345, "tid":4, "ts":1684206460651724, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684206460651727, "dur":2055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/level0" }}
+,{ "pid":12345, "tid":4, "ts":1684206460653830, "dur":26646, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684206460591416, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684206460591416, "dur":3804, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684206460595221, "dur":216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1684206460595439, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684206460597340, "dur":1460, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1684206460598841, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1684206460598889, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684206460598946, "dur":1123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1684206460600111, "dur":6969, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684206460607083, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684206460607089, "dur":5577, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684206460612713, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684206460612843, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684206460612847, "dur":1292, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684206460614183, "dur":708, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684206460614895, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684206460614899, "dur":1373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684206460616311, "dur":297, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684206460616611, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684206460616615, "dur":1121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684206460617775, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684206460617933, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684206460617937, "dur":939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684206460618913, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684206460619051, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684206460619056, "dur":1106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684206460620204, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684206460620379, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684206460620385, "dur":1034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684206460621455, "dur":189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684206460621647, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684206460621653, "dur":1456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684206460623147, "dur":376, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684206460623526, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684206460623531, "dur":972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684206460624544, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684206460624671, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684206460624675, "dur":2076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684206460626828, "dur":218, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684206460627049, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684206460627053, "dur":1503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684206460628617, "dur":350, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684206460628970, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684206460628977, "dur":4830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684206460633885, "dur":258, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684206460634149, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684206460634195, "dur":3207, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684206460637442, "dur":229, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684206460637673, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684206460637677, "dur":2120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684206460639843, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/RealSense.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684206460640017, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684206460640021, "dur":3568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/RealSense.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684206460643642, "dur":4942, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684206460648586, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684206460648591, "dur":5260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684206460653935, "dur":26553, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684206460591437, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684206460591438, "dur":3847, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684206460595285, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1684206460595365, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684206460596413, "dur":2317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1684206460598777, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1684206460598828, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684206460598833, "dur":1089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1684206460599968, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1684206460600009, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684206460600013, "dur":2345, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1684206460602414, "dur":219, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460602636, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684206460602642, "dur":1017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460603703, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460603865, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684206460603869, "dur":1645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460605550, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460605687, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684206460605690, "dur":2247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460608005, "dur":201, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460608209, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684206460608215, "dur":1767, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460610041, "dur":189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460610232, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684206460610239, "dur":1824, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460612102, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460612239, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684206460612242, "dur":1671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460613954, "dur":614, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460614571, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684206460614575, "dur":1636, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460616252, "dur":232, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460616486, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684206460616495, "dur":956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460617486, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460617616, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684206460617621, "dur":1124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460618786, "dur":1107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460619896, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684206460619900, "dur":2856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460622794, "dur":143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460622940, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684206460622944, "dur":1617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460624601, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460624750, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684206460624753, "dur":1593, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460626395, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460626525, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684206460626529, "dur":2301, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460628875, "dur":206, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460629083, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684206460629088, "dur":3720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460632865, "dur":327, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460633197, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684206460633204, "dur":3569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460636829, "dur":3118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460639950, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684206460639956, "dur":4019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460644010, "dur":346, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460644359, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684206460644367, "dur":1650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684206460646099, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/StreamingAssets/StreamingAssets.manifest" }}
+,{ "pid":12345, "tid":6, "ts":1684206460646150, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684206460646159, "dur":2064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/StreamingAssets/StreamingAssets.manifest" }}
+,{ "pid":12345, "tid":6, "ts":1684206460648268, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":6, "ts":1684206460648314, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684206460648319, "dur":1280, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":6, "ts":1684206460649637, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":6, "ts":1684206460649775, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684206460649835, "dur":4583, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":6, "ts":1684206460654461, "dur":26033, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684206460591460, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684206460591460, "dur":3756, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684206460595217, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1684206460595291, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684206460595978, "dur":2474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1684206460598498, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1684206460598629, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684206460598635, "dur":1007, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1684206460599684, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1684206460599730, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684206460599735, "dur":1327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1684206460601105, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":7, "ts":1684206460601147, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684206460601211, "dur":10492, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":7, "ts":1684206460611777, "dur":279, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684206460612059, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684206460612063, "dur":1576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684206460613694, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684206460613838, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684206460613843, "dur":907, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684206460614789, "dur":203, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684206460614994, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684206460614998, "dur":1207, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684206460616248, "dur":210, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684206460616461, "dur":224, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684206460616689, "dur":1077, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684206460617807, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684206460617951, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684206460617954, "dur":1064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684206460619058, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684206460619212, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684206460619216, "dur":4759, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684206460624022, "dur":208, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684206460624233, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684206460624238, "dur":1982, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684206460626270, "dur":183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684206460626475, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684206460626479, "dur":2133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684206460628686, "dur":4102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684206460632795, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684206460632804, "dur":4295, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684206460637140, "dur":2869, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684206460640012, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684206460640016, "dur":4264, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684206460644473, "dur":284, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/Intel.RealSense.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684206460644760, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684206460644765, "dur":2346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/Intel.RealSense.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684206460647156, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/StreamingAssets/sample_scenes" }}
+,{ "pid":12345, "tid":7, "ts":1684206460647204, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684206460647208, "dur":3561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/StreamingAssets/sample_scenes" }}
+,{ "pid":12345, "tid":7, "ts":1684206460650810, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/level0.resS" }}
+,{ "pid":12345, "tid":7, "ts":1684206460650848, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684206460650851, "dur":2319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/level0.resS" }}
+,{ "pid":12345, "tid":7, "ts":1684206460653232, "dur":145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1684206460653379, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684206460653384, "dur":1116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1684206460654535, "dur":25962, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684206460591481, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684206460591482, "dur":3804, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684206460595286, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1684206460595366, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684206460596732, "dur":1985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1684206460598767, "dur":163, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1684206460598932, "dur":16, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684206460598953, "dur":1083, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1684206460600077, "dur":834, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460600914, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684206460600970, "dur":1508, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460602520, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460602659, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684206460602663, "dur":1091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460603794, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460603929, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684206460603952, "dur":1176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460605172, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460605336, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684206460605342, "dur":1060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460606478, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460606646, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684206460606652, "dur":1568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460608271, "dur":185, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460608458, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684206460608462, "dur":2164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460610671, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460610837, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684206460610843, "dur":1525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460612411, "dur":176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460612590, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684206460612594, "dur":1397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460614030, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460614192, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684206460614196, "dur":964, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460615199, "dur":144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460615345, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684206460615348, "dur":1223, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460616617, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460616762, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684206460616765, "dur":1076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460617881, "dur":238, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460618121, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684206460618125, "dur":897, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460619061, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460619203, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684206460619206, "dur":5732, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460624980, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460625111, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684206460625115, "dur":1832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460626986, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460627112, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684206460627115, "dur":2390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460629542, "dur":1123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460630671, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684206460630677, "dur":5060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460635794, "dur":778, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460636577, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684206460636587, "dur":2323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460638956, "dur":718, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460639682, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684206460639693, "dur":2828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460642574, "dur":875, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460643452, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684206460643460, "dur":1633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684206460645131, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":8, "ts":1684206460645273, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684206460645325, "dur":1522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":8, "ts":1684206460646888, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/StreamingAssets/sample_scenes.manifest" }}
+,{ "pid":12345, "tid":8, "ts":1684206460646927, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684206460646931, "dur":1674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/StreamingAssets/sample_scenes.manifest" }}
+,{ "pid":12345, "tid":8, "ts":1684206460648645, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1684206460648687, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684206460648690, "dur":3408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1684206460652144, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles bin/DermoApp2_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":8, "ts":1684206460652192, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684206460652197, "dur":1590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"bin/DermoApp2_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":8, "ts":1684206460653833, "dur":26643, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684206460682699, "dur":1599, "ph":"X", "name": "ProfilerWriteOutput" }
+,{ "pid": 0, "tid": 1, "ts": 1684206460724448, "dur": 822, "ph": "X", "name": "backend_profiler1.traceevents", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1684206460723677, "dur": 1617, "ph": "X", "name": "Write chrome-trace events", "args": {} },
